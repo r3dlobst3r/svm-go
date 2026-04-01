@@ -1,4 +1,4 @@
-module svm
+module github.com/r3dlobst3r/svm-go
 
 go 1.26
 
